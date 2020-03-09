@@ -1,0 +1,19 @@
+TempTower: https://www.thingiverse.com/thing:2092820/files
+Instructions from: https://www.thingiverse.com/thing:696093
+
+Fast Print (FP): 0H45, 0.15mm layers
+Normal Print (NP): 2H01, 0.10mm layers
+High Quality (HQ): 3H21, 0.06mm layers
+
+The base is 2mm high, the rest is 10mm per piece.
+
+Layers for temp change. Derived from walking thru Cura layers view.
+Wait for hotend to come to temp.
+
+19: m109 s190
+107: m109 s195
+200: m109 s200
+288: m109 s205
+379: m109 s210
+
+
